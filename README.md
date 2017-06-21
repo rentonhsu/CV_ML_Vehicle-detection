@@ -1,3 +1,3 @@
 Vehicle-detection in Computer Vision and Machine Learning.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](http://imageshack.com/a/img924/7298/FiBfkC.jpg)
